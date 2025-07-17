@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.2.2
+  webview_flutter_android: ^3.12.0
